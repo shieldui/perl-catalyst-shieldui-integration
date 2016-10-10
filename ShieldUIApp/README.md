@@ -154,7 +154,7 @@ sub book_GET
 ```
 
 The rest of the file includes the code for the other resources and actions. 
-Its complete version can be seen in the (lib/ShieldUIApp/Controller/Book.pm)[lib/ShieldUIApp/Controller/Book.pm] file. 
+Its complete version can be seen in the [lib/ShieldUIApp/Controller/Book.pm](lib/ShieldUIApp/Controller/Book.pm) file. 
 
 
 ## Adding Views
